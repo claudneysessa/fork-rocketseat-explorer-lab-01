@@ -1,4 +1,6 @@
-<h1 align="center"> Explorer Lab #01 (Fork do Original)</h1>
+# Explorer Lab - JavaScript DOM (Fork do Original)
+
+![Explorer Lab - JS DOM](https://user-images.githubusercontent.com/12506432/196342263-4508fecc-1776-4adf-9450-b40c1939aa59.png)
 
 <p align="center">
 Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB.
